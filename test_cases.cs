@@ -57,6 +57,8 @@ namespace MetroStationNavigatorTask
         [TestCase("0", "10", "5", "9", "return", TestName = "Результат кратен 3, возвращаемся")]
   [TestCase("5", "10", "6", "10", "return", TestName = "Результат кратен 3, возвращаемся")]
   [TestCase("6", "255", "128", "11", "return", TestName = "Результат кратен 3, возвращаемся")]
+
+	    
 	//несколько условий
 
   [TestCase("7", "10", "4", "9", "return", TestName = "Крыс с красными глазами меньше половины, возвращаемся")]
